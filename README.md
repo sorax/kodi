@@ -1,0 +1,2 @@
+# kodi
+my kodi config
